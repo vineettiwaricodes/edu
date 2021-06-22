@@ -1,0 +1,92 @@
+.lead-title-bg{
+    background-color: #7B85FE;
+}
+.lead-title{
+    color: #fff;
+    padding: 10px;
+}
+.card-header-lead{
+    justify-content: center;
+    display: flex;
+}
+.lead-btn{
+    background-color:  #8e1f1f!important;
+}
+.lead-btn:hover{
+    background-color: #FEC31D!important;
+}
+.submit-btn{
+    float: right;
+}
+.submit-p{
+    display: flex;
+    justify-content: flex-end;
+}
+.form-check-input-2{
+    margin: 0px!important;
+}
+.my-fafa{
+    font-size: 25px;
+}
+.my-fafa:hover{
+    color: green;
+}
+.my-fafa-ph{
+    font-size: 20px;
+}
+.my-fafa-ph:hover{
+color: rgb(28, 128, 243);
+}
+.icons-div{
+    display: grid;
+}
+.drop-btn{
+    background: none;
+    color: #444444;
+    border: none;
+    padding: revert;
+    font-size: 20px!important;
+}
+.blue-row{
+    background-color: aliceblue;
+}
+.input-col{
+    padding-bottom: 20px;
+}
+.new-lead-plus{
+    padding: 10px;
+}
+.my-lead-modal{
+    max-width: 800px!important;
+}
+.my-lead-modal-1{
+    max-width: 1140px!important;
+}
+.my-lead-modal-2{
+    max-width: 300px!important;
+}
+/* .select-sec{
+    
+    width: 100%!important;
+} */
+
+@media(max-width:600px){
+    .card-head-lead{
+        padding: 0px;
+    }
+    .lead-btn{
+        font-size: 10px;
+    }
+}
+.sup{
+    color: red;
+}
+.add{
+ background-color: blue;
+}
+.history{
+    margin-left: -1px!important;
+}
+.data{
+    padding: 10px 1px!important;
+}
